@@ -1,0 +1,9 @@
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.API\bin\Debug\netcoreapp3.1\appsettings.json
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.API\obj\Debug\netcoreapp3.1\AwesomeGym.API.csprojAssemblyReference.cache
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.API\obj\Debug\netcoreapp3.1\staticwebassets\AwesomeGym.API.StaticWebAssets.Manifest.cache
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.API\obj\Debug\netcoreapp3.1\staticwebassets\AwesomeGym.API.StaticWebAssets.xml
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.API\obj\Debug\netcoreapp3.1\AwesomeGym.API.AssemblyInfoInputs.cache
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.API\obj\Debug\netcoreapp3.1\AwesomeGym.API.AssemblyInfo.cs
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.API\obj\Debug\netcoreapp3.1\AwesomeGym.API.RazorTargetAssemblyInfo.cache
