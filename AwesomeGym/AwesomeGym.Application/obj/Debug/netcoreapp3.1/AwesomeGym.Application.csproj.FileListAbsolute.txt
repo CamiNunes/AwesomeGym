@@ -1,0 +1,7 @@
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Application\bin\Debug\netcoreapp3.1\AwesomeGym.Application.deps.json
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Application\bin\Debug\netcoreapp3.1\AwesomeGym.Application.dll
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Application\bin\Debug\netcoreapp3.1\AwesomeGym.Application.pdb
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Application\obj\Debug\netcoreapp3.1\AwesomeGym.Application.AssemblyInfoInputs.cache
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Application\obj\Debug\netcoreapp3.1\AwesomeGym.Application.AssemblyInfo.cs
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Application\obj\Debug\netcoreapp3.1\AwesomeGym.Application.dll
+R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Application\obj\Debug\netcoreapp3.1\AwesomeGym.Application.pdb
