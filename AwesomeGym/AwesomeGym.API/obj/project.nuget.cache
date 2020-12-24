@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jhca2ELGD5wjr+/fK+fiM+HcrADCoI9st9coYeJ1AzJn83EBaHS7rDya4lWiF5hyGHdBwyfKfcPvhe5faKXeqA==",
+  "success": true,
+  "projectFilePath": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.API\\AwesomeGym.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.9.10\\microsoft.visualstudio.azure.containers.tools.targets.1.9.10.nupkg.sha512"
+  ],
+  "logs": []
+}

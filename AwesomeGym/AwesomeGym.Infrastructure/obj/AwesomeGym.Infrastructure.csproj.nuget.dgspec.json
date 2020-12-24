@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "R:\\Linguagens\\.NetCore\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\AwesomeGym.Infrastructure.csproj": {}
+    "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\AwesomeGym.Infrastructure.csproj": {}
   },
   "projects": {
-    "R:\\Linguagens\\.NetCore\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\AwesomeGym.Infrastructure.csproj": {
+    "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Core\\AwesomeGym.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\Linguagens\\.NetCore\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\AwesomeGym.Infrastructure.csproj",
-        "projectName": "AwesomeGym.Infrastructure",
-        "projectPath": "R:\\Linguagens\\.NetCore\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\AwesomeGym.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "R:\\Linguagens\\.NetCore\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\obj\\",
+        "projectUniqueName": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Core\\AwesomeGym.Core.csproj",
+        "projectName": "AwesomeGym.Core",
+        "projectPath": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Core\\AwesomeGym.Core.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -56,7 +56,67 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\AwesomeGym.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\AwesomeGym.Infrastructure.csproj",
+        "projectName": "AwesomeGym.Infrastructure",
+        "projectPath": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\AwesomeGym.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Core\\AwesomeGym.Core.csproj": {
+                "projectPath": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Core\\AwesomeGym.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

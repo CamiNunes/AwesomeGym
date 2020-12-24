@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuário\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\Linguagens\\.NetCore\\AwesomeGym\\AwesomeGym\\AwesomeGym.Application\\AwesomeGym.Application.csproj",
+      "projectUniqueName": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Application\\AwesomeGym.Application.csproj",
       "projectName": "AwesomeGym.Application",
-      "projectPath": "R:\\Linguagens\\.NetCore\\AwesomeGym\\AwesomeGym\\AwesomeGym.Application\\AwesomeGym.Application.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "R:\\Linguagens\\.NetCore\\AwesomeGym\\AwesomeGym\\AwesomeGym.Application\\obj\\",
+      "projectPath": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Application\\AwesomeGym.Application.csproj",
+      "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+      "outputPath": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

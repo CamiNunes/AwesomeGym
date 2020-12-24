@@ -5,3 +5,12 @@ R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreap
 R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.AssemblyInfo.cs
 R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.dll
 R:\Linguagens\.NetCore\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.pdb
+R:\dese.git\AwesomeGym\AwesomeGym\AwesomeGym.Core\bin\Debug\netcoreapp3.1\AwesomeGym.Core.deps.json
+R:\dese.git\AwesomeGym\AwesomeGym\AwesomeGym.Core\bin\Debug\netcoreapp3.1\AwesomeGym.Core.dll
+R:\dese.git\AwesomeGym\AwesomeGym\AwesomeGym.Core\bin\Debug\netcoreapp3.1\AwesomeGym.Core.pdb
+R:\dese.git\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.csprojAssemblyReference.cache
+R:\dese.git\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.AssemblyInfoInputs.cache
+R:\dese.git\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.AssemblyInfo.cs
+R:\dese.git\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.csproj.CoreCompileInputs.cache
+R:\dese.git\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.dll
+R:\dese.git\AwesomeGym\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.pdb
