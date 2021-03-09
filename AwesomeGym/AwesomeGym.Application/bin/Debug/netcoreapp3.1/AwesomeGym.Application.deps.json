@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "AwesomeGym.Application/1.0.0": {
+        "dependencies": {
+          "AwesomeGym.Core": "1.0.0"
+        },
         "runtime": {
           "AwesomeGym.Application.dll": {}
+        }
+      },
+      "AwesomeGym.Core/1.0.0": {
+        "runtime": {
+          "AwesomeGym.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "AwesomeGym.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AwesomeGym.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

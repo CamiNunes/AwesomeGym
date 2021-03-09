@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "AwesomeGym.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AwesomeGym.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AwesomeGym.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AwesomeGym.Core/1.0.0": {
+      "type": "project",
+      "path": "../AwesomeGym.Core/AwesomeGym.Core.csproj",
+      "msbuildProject": "../AwesomeGym.Core/AwesomeGym.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "AwesomeGym.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Usuário\\.nuget\\packages\\": {},
@@ -37,7 +56,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Core\\AwesomeGym.Core.csproj": {
+              "projectPath": "R:\\dese.git\\AwesomeGym\\AwesomeGym\\AwesomeGym.Core\\AwesomeGym.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -63,7 +86,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
